@@ -20,7 +20,7 @@ REQUIRES = [
     "numpy",
     "pandas",
     "ipython",
-    "scipy",
+    "scipy==1.11.4",
     "patsy",
     "seaborn",
     "plotly",
